@@ -57,6 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  De website is best wel design heavy. Hier gaat de screenreader niet heel lekker op, omdat deze de design elementen niet herkend of goed kan lezen. Zo zijn er veel dubbele elementen die dan twee keer   worden gelezen of worden er afbeeldingen gebruikt zonder alt tekst.
 
 </details>
 
