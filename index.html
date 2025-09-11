@@ -1,21 +1,199 @@
 <!DOCTYPE html>
-<html lang="nl">
-	
+<html lang="en">
+
 <head>
-	<meta charset="UTF-8">
-	<meta name="author" content="jouw naam">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<title>Howdy FED2526</title>
-	
-	<link href="styles/style.css" rel="stylesheet">
-	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Flexxi – The Design Company Built for Flexibility</title>
 </head>
 
 <body>
-	<h1>Howdy FED2526</h1>
+    <!-- Header / Navigation -->
+    <header class="site-header">
+        <nav class="site-nav" aria-label="Main navigation">
+            <a href="/" class="logo">
+                <img src="images/flexxi-logo.png" alt="Flexxi logo">
+            </a>
 
-	<script defer src="scripts/script.js"></script>
+            <button class="menu-toggle" aria-label="Open menu">
+                <img src="images/menu.png" alt="">
+            </button>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="hero">
+            <h1>The Design Company Built For Flexibility</h1>
+            <p>The AI-focused design company for fast-moving teams building what's next.</p>
+
+            <div class="btn-background">
+                <a href="#contact" class="cta-button">Let's build what's next</a>
+            </div>
+        </section>
+
+        <!-- Background Video -->
+        <section class="video-background" aria-label="Flexxi showreel video">
+            <video autoplay loop muted playsinline>
+                <source src="video/flexxi_showreel.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </section>
+
+        <!-- Clients Carousel -->
+        <section class="carousel-section" aria-label="Trusted by companies">
+            <h2>Trusted by</h2>
+            <div class="carousel">
+                <div class="carousel-track">
+                    <img src="images/riverside.png" alt="Riverside">
+                    <img src="images/microsoft.png" alt="Microsoft">
+                    <img src="images/Linkedin.png" alt="LinkedIn">
+                    <img src="images/clarity.png" alt="Clarity">
+
+                    <!-- duplicate set for infinite scroll -->
+                    <img src="images/riverside.png" alt="Riverside">
+                    <img src="images/microsoft.png" alt="Microsoft">
+                    <img src="images/Linkedin.png" alt="LinkedIn">
+                    <img src="images/clarity.png" alt="Clarity">
+                </div>
+            </div>
+        </section>
+
+        <!-- Services -->
+        <section class="services">
+            <h2>Build your brand</h2>
+
+            <article class="service">
+                <h3><span>01</span> Product Design</h3>
+                <p>Power up your product with expert UX/UI designers: available in-house or fully managed by Flexxi.
+                    From
+                    product audits and user testing to standout product design, we deliver results that drive growth.
+                </p>
+            </article>
+
+            <article class="service">
+                <h3><span>02</span> Branding & Web Creation</h3>
+                <p>Transform your brand with bold identity design and high-impact custom websites, expertly crafted by
+                    Flexxi's top-tier designers and development team. Captivate users, boost engagement, and maximize
+                    SEO
+                    performance.</p>
+            </article>
+
+            <article class="service">
+                <h3><span>03</span> Talent On-Demand</h3>
+                <p>We plug in experienced designers to elevate your craft. Whether you are building from scratch,
+                    optimizing your product design or up-leveling your marketing efforts. You can lead the process
+                    internally, or we will manage the entire engagement from start to finish.</p>
+            </article>
+        </section>
+
+        <!-- Case Studies -->
+        <section class="case-studies">
+            <header>
+                <h2>Our Work Drives Results</h2>
+                <div class="btn-background">
+                    <a href="#contact" class="cta-button">Let's build what's next</a>
+                </div>
+            </header>
+
+            <article class="case-study">
+                <img src="images/riverside.png" alt="Amplitude project logo">
+                <h3>Amplitude</h3>
+                <ul class="tags">
+                    <li class="tag">Product design</li>
+                    <li class="tag">2025</li>
+                    <li class="tag">AI-focused</li>
+                    <li class="tag">Marketing Intelligence</li>
+                    <li class="tag">B2B</li>
+                </ul>
+            </article>
+        </section>
+
+        <section>
+            <div>
+                <p>We believe design is about creating clarity. Our edge? A team of thinkers, makers, and partners who
+                    bring rigor to every collaboration.</p>
+
+                <div class="btn-background">
+                    <a href="#contact" class="cta-button">Let's build what's next</a>
+                </div>
+            </div>
+            <img src="images/believe.webp" alt="Amplitude project logo">
+        </section>
+
+        <section>
+            <h3>shaping AI Products</h3>
+            <h2>We are building a hyper-focused design unit that focuses on product design with cutting-edge AI.</h2>
+            <div class="btn-background">
+                <a href="#contact" class="cta-button">Let's build what's next</a>
+            </div>
+        </section>
+
+        <section class="carousel-section-experts" aria-label="Experts">
+            <div class="carousel-experts-left">
+                <div class="carousel-track-experts">
+                    <article class="expert">
+                        <img src="images/Allie.webp" alt="Riverside">
+                        <h3>Jane Doe</h3>
+                        <p>Lead Designer</p>
+                    </article>
+                    <article class="expert">
+                        <img src="images/Evelyn.webp" alt="Microsoft">
+                        <h3>John Smith</h3>
+                        <p>UX Specialist</p>
+                    </article>
+                    <article class="expert">
+                        <img src="images/Gaston.webp" alt="LinkedIn">
+                        <h3>Emily Johnson</h3>
+                        <p>Brand Strategist</p>
+                    </article>
+                    <article class="expert">
+                        <img src="images/Francisco.webp" alt="Clarity">
+                        <h3>Michael Brown</h3>
+                        <p>Web Developer</p>
+                    </article>
+                    <article class="expert">
+                        <img src="images/isabella.png" alt="Clarity">
+                        <h3>Michael Brown</h3>
+                        <p>Web Developer</p>
+                    </article>
+                </div>
+            </div>
+
+            <h2>Excellence with experts by your side.</h2>
+
+            <div class="carousel-experts-right">
+                <div class="carousel-track-experts">
+                    <article class="expert">
+                        <img src="images/isabella.png" alt="Clarity">
+                        <h3>Michael Brown</h3>
+                        <p>Web Developer</p>
+                    </article>
+                    <article class="expert">
+                        <img src="images/Francisco.webp" alt="Clarity">
+                        <h3>Michael Brown</h3>
+                        <p>Web Developer</p>
+                    </article>
+                    <article class="expert">
+                        <img src="images/Gaston.webp" alt="LinkedIn">
+                        <h3>Emily Johnson</h3>
+                        <p>Brand Strategist</p>
+                    </article>
+                    <article class="expert">
+                        <img src="images/Evelyn.webp" alt="Microsoft">
+                        <h3>John Smith</h3>
+                        <p>UX Specialist</p>
+                    </article>
+                    <article class="expert">
+                        <img src="images/Allie.webp" alt="Riverside">
+                        <h3>Jane Doe</h3>
+                        <p>Lead Designer</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
 </body>
-	
+
 </html>
