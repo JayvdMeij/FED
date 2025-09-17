@@ -57,7 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  De website is best wel design heavy. Hier gaat de screenreader niet heel lekker op, omdat deze de design elementen niet herkend of goed kan lezen. Zo zijn er veel dubbele elementen die dan twee keer   worden gelezen of worden er afbeeldingen gebruikt zonder alt tekst.
+  De website is best wel design heavy. Dit is niet prettig voor de screenreader, omdat om de website er visueel goed uit te laten zien wordt een een overtollige hoeveelheid classes en niet semantische code gebruikt. Hierdoor wordt de website slecht leesbaar voor screenreaders. Zo zijn er veel dubbele elementen die dan twee keer worden gelezen of worden er afbeeldingen gebruikt zonder alt tekst.
 
 </details>
 
