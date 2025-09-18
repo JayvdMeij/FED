@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Rood
 
   #### Je focus:
-  Responsive design
+  Surface Plane
  
 </details>
 
@@ -57,7 +57,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  De website is best wel design heavy. Dit is niet prettig voor de screenreader, omdat om de website er visueel goed uit te laten zien wordt een een overtollige hoeveelheid classes en niet semantische code gebruikt. Hierdoor wordt de website slecht leesbaar voor screenreaders. Zo zijn er veel dubbele elementen die dan twee keer worden gelezen of worden er afbeeldingen gebruikt zonder alt tekst.
 
 </details>
 
@@ -69,13 +68,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/home.jpg" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
@@ -89,7 +82,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Bijna alle html voor de homepage al gemaakt. Nu is het tijd voor de css. De javascript doe ik pas als de html en css klaar zijn. 
 
 
   ### Agenda voor meeting
@@ -103,12 +96,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  De website heeft een goed begin en de onderdelen die al gestyled zijn zien er ook goed uit. Het bijhouden van de documentatie moet wel op worden gelet en goed worden bijgehouden.
 
 </details>
 
