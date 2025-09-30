@@ -110,7 +110,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Deze week niet veel gedaan aan de website. Kleine aanpassingen maar weinig grote voortgang geboekt.
 
 
   ### Agenda voor meeting
@@ -124,12 +124,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  Ik kreeg andere feedback van de docent dan van de studentassistent. Veel kritischer maar daar kan ik wel mee aan de slag. Ook goed kunnen sparren over het aanpakken van de responisve deel
 
 </details>
 
@@ -143,7 +138,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  In vergelijking met het orgineel heb ik aanzienlijk minder overbodige elementen gebruikt. Hierdoor kan de screenreader een stuk makkelijker alle content lezen en begrijpen. De styling elementen worden overgeslagen wat ook helpt in het begrijpbaar houden voor de screenreader.
 
 </details>
 
@@ -157,26 +152,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  Tijd voor de eindsprint. Homepage is zo goed als af, op een paar kleine effecten na. De tweede pagina is korter en simpeler, gaat goed komen!
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Ik was niet aanwezig bij de meeting.
 
 </details>
 
@@ -190,19 +169,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/karakteristiek.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik ben blij met de gehele look van de website. Het is niet een precieze 1 op 1, maar ik ben wel tevreden. Zeker met secties zoals in de afbeelding waarin wat javascript en ongebruikelijke css in voorkomt.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/top.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  De scroll animaties zijn helaas niet gelukt. De website bleek toch uitdagender te zijn dan ik in eerste instantie dacht. Ik kreeg het niet voor elkaar om de scroll animaties goed te krijgen.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/scrollbummer1.png" width="375px" alt="bummer1">
+  <img src="readme-images/scrollbummer2.png" width="375px" alt="bummer2">
 </details>
 
 
