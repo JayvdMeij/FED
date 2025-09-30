@@ -173,7 +173,7 @@ body.light .menu-toggle img {
 }
 
 .btn-background {
-  background-image: url("/images/button-background.webp");
+  background-image: url("./images/button-background.webp");
   padding: 12px 3px;
   border-radius: 50px;
   width: fit-content;
