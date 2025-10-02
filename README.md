@@ -58,15 +58,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Ik heb de website getest met een screenreader. Hieronder de bevindingen en wat ik zelf beter wil gaan doen.
 
-  Bevindingen:
-  -De website heeft veel design elementen die voor een screenreader verwarrend zijn.
-  -Er zijn weinig duidelijke beschrijvingen of alt-teksten bij visuele onderdelen.
-  -De navigatie is niet altijd logisch opgebouwd, waardoor de reader blijft "hangen".
+  **Bevindingen:**
+  
+  1. De website heeft veel design elementen die voor een screenreader verwarrend zijn.  
+  2. Er zijn weinig duidelijke beschrijvingen of alt-teksten bij visuele onderdelen.  
+  3. De navigatie is niet altijd logisch opgebouwd, waardoor de reader blijft "hangen".  
 
-  Verbeteringen:
-  -duidelijke heading-structuur.
-  -alt-teksten bij afbeeldingen.
-  -Elementen die beschrijvende labels hebben.
+  **Verbeteringen:**
+  
+  1. Duidelijke heading-structuur.  
+  2. Alt-teksten bij afbeeldingen.  
+  3. Elementen die beschrijvende labels hebben.  
 
 </details>
 
@@ -106,9 +108,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  -Het begin ziet er goed uit, maar documentatie moet beter bijgehouden worden.
-  -Focus houden op consistentie in CSS.
-  -Op tijd beginnen aan responsive deel om straks niet in tijdnood te komen, ookal is dit niet de main focus.
+  1. Het begin ziet er goed uit, maar documentatie moet beter bijgehouden worden.
+  2. Focus houden op consistentie in CSS.
+  3. Op tijd beginnen aan responsive deel om straks niet in tijdnood te komen, ookal is dit niet de main focus.
 
 </details>
 
