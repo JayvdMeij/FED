@@ -94,8 +94,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  De HTML voor de homepage is al vor het grotendeels al gemaakt. Ik heb een begin gemaakt aan de CSS, maar nog niet te veel details. De javascript doe ik pas als de html en css klaar zijn. 
-
+  De HTML voor de homepage is grotendeels al gemaakt. Ik heb een begin gemaakt aan de CSS, maar nog niet te veel details. De JavaScript doe ik pas als de HTML en CSS klaar zijn. 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -106,13 +105,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
-
   ### Verslag van meeting
-  1. Het begin ziet er goed uit, maar documentatie moet beter bijgehouden worden.
-  2. Focus houden op consistentie in CSS.
-  3. Op tijd beginnen aan responsive deel om straks niet in tijdnood te komen, ookal is dit niet de main focus.
+  
+  1. Het begin ziet er goed uit, maar documentatie moet beter bijgehouden worden.  
+  2. Focus houden op consistentie in CSS.  
+  3. Op tijd beginnen aan responsive deel om straks niet in tijdnood te komen, ook al is dit niet de main focus.  
 
 </details>
+
 
 
 
@@ -138,9 +138,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  -Feedback van docent was kritischer dan die van de student-assistent, maar wel nuttig.
-  -Vooral letten op het responsive deel: hoe schaalt de site naar mobiel en tablet?
-  -Iets minder focus op details, meer op de grote lijnen.
+  
+  1. Feedback van docent was kritischer dan die van de student-assistent, maar wel nuttig. 
+  2. Let op dat de site ook op mobiel moet werken.
+  3. Iets minder focus op details, meer op de grote lijnen.
+     
+     
   
 
 </details>
@@ -156,28 +159,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
 
-  Ik heb de website getest met een screenreader. Hieronder de bevindingen en wat ik zelf beter wil gaan doen.
-
-  Bevindingen:
-  -De website heeft veel design elementen die voor een screenreader verwarrend zijn.
-  -Er zijn weinig duidelijke beschrijvingen of alt-teksten bij visuele onderdelen.
-  -De navigatie is niet altijd logisch opgebouwd, waardoor de reader blijft "hangen".
-
-  Verbeteringen:
-  -duidelijke heading-structuur.
-  -alt-teksten bij afbeeldingen.
-  -Elementen die beschrijvende labels hebben.
-
   Ik ga nu mijn site testen met dezelfde screenreader om te kijken wat hier uit gaat komen.
 
-  Bevindingen:
-  -Door minder overbodige elementen te gebruiken, werkt de screenreader beter.
-  -Content is nu beter leesbaar en logischer gestructureerd.
-  -Styling-elementen zijn gescheiden van de inhoud, waardoor er minder verwarring ontstaat.
+  **Bevindingen:**
   
-  In vergelijking met het origineel is de site is een stuk beter te navigeren met een screenreader. Er zijn nog wel een paar verbeterpunten zoals het toevoegen van aria-labels.
+  1. Door minder overbodige elementen te gebruiken, werkt de screenreader beter.  
+  2. Content is nu beter leesbaar en logischer gestructureerd.  
+  3. Styling-elementen zijn gescheiden van de inhoud, waardoor er minder verwarring ontstaat.  
+
+  In vergelijking met het origineel is de site een stuk beter te navigeren met een screenreader. Er zijn nog wel een paar verbeterpunten zoals het toevoegen van aria-labels.
 
 </details>
+
 
 
 
