@@ -56,7 +56,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  De website heeft veel design elementen. Dit maakt het lastig voor de screenreader om goed door de website heen te gaan. Er is geen duidelijk pad die gevolgd kan worden en de reader blijft veel hangen op deze elementen. De elementen hebben ook geen goede beschrijving waardoor het extra verwarrend wordt.
+  Ik heb de website getest met een screenreader. Hieronder de bevindingen en wat ik zelf beter wil gaan doen.
+
+  Bevindingen:
+  -De website heeft veel design elementen die voor een screenreader verwarrend zijn.
+  -Er zijn weinig duidelijke beschrijvingen of alt-teksten bij visuele onderdelen.
+  -De navigatie is niet altijd logisch opgebouwd, waardoor de reader blijft "hangen".
+
+  Verbeteringen:
+  -duidelijke heading-structuur.
+  -alt-teksten bij afbeeldingen.
+  -Elementen die beschrijvende labels hebben.
 
 </details>
 
@@ -82,7 +92,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Bijna alle html voor de homepage al gemaakt. Nu is het tijd voor de css. De javascript doe ik pas als de html en css klaar zijn. 
+  De HTML voor de homepage is al vor het grotendeels al gemaakt. Ik heb een begin gemaakt aan de CSS, maar nog niet te veel details. De javascript doe ik pas als de html en css klaar zijn. 
 
 
   ### Agenda voor meeting
@@ -96,7 +106,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  De website heeft een goed begin en de onderdelen die al gestyled zijn zien er ook goed uit. Het bijhouden van de documentatie moet wel op worden gelet en goed worden bijgehouden.
+  -Het begin ziet er goed uit, maar documentatie moet beter bijgehouden worden.
+  -Focus houden op consistentie in CSS.
+  -Op tijd beginnen aan responsive deel om straks niet in tijdnood te komen, ookal is dit niet de main focus.
 
 </details>
 
@@ -110,7 +122,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Deze week niet veel gedaan aan de website. Kleine aanpassingen maar weinig grote voortgang geboekt.
+  Deze week niet veel gedaan aan de website. Kleine aanpassingen gemaakt aan de CSS en de consistentie ervan. Verder weinig voorgang in de site zelf.
 
 
   ### Agenda voor meeting
@@ -124,7 +136,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  Ik kreeg andere feedback van de docent dan van de studentassistent. Veel kritischer maar daar kan ik wel mee aan de slag. Ook goed kunnen sparren over het aanpakken van de responisve deel
+  -Feedback van docent was kritischer dan die van de student-assistent, maar wel nuttig.
+  -Vooral letten op het responsive deel: hoe schaalt de site naar mobiel en tablet?
+  -Iets minder focus op details, meer op de grote lijnen.
+  
 
 </details>
 
@@ -138,7 +153,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  In vergelijking met het orgineel heb ik aanzienlijk minder overbodige elementen gebruikt. Hierdoor kan de screenreader een stuk makkelijker alle content lezen en begrijpen. De styling elementen worden overgeslagen wat ook helpt in het begrijpbaar houden voor de screenreader.
+
+  Ik heb de website getest met een screenreader. Hieronder de bevindingen en wat ik zelf beter wil gaan doen.
+
+  Bevindingen:
+  -De website heeft veel design elementen die voor een screenreader verwarrend zijn.
+  -Er zijn weinig duidelijke beschrijvingen of alt-teksten bij visuele onderdelen.
+  -De navigatie is niet altijd logisch opgebouwd, waardoor de reader blijft "hangen".
+
+  Verbeteringen:
+  -duidelijke heading-structuur.
+  -alt-teksten bij afbeeldingen.
+  -Elementen die beschrijvende labels hebben.
+
+  Ik ga nu mijn site testen met dezelfde screenreader om te kijken wat hier uit gaat komen.
+
+  Bevindingen:
+  -Door minder overbodige elementen te gebruiken, werkt de screenreader beter.
+  -Content is nu beter leesbaar en logischer gestructureerd.
+  -Styling-elementen zijn gescheiden van de inhoud, waardoor er minder verwarring ontstaat.
+  
+  In vergelijking met het origineel is de site is een stuk beter te navigeren met een screenreader. Er zijn nog wel een paar verbeterpunten zoals het toevoegen van aria-labels.
 
 </details>
 
@@ -174,12 +209,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik ben blij met de gehele look van de website. Het is niet een precieze 1 op 1, maar ik ben wel tevreden. Zeker met secties zoals in de afbeelding waarin wat javascript en ongebruikelijke css in voorkomt.
+  Het was ook de eerste keer dat ik een light/dark mode toggle heb gemaakt. Dat was een leuke kleine uitdaging.
 
   <img src="readme-images/top.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  De scroll animaties zijn helaas niet gelukt. De website bleek toch uitdagender te zijn dan ik in eerste instantie dacht. Ik kreeg het niet voor elkaar om de scroll animaties goed te krijgen.
+  De scroll animaties zijn helaas niet gelukt. De website bleek toch uitdagender te zijn dan ik in eerste instantie dacht. Naast de scroll animaties zou de resposiveness van de site iets beter kunnen met bijvoorbeeld fluid teksten.
 
   <img src="readme-images/scrollbummer1.png" width="375px" alt="bummer1">
   <img src="readme-images/scrollbummer2.png" width="375px" alt="bummer2">
