@@ -158,16 +158,30 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
+  - 
+  Ik ga nu mijn site testen aan de hand van de WCAG-richtlijnen.
 
-  Ik ga nu mijn site testen met dezelfde screenreader om te kijken wat hier uit gaat komen.
+  **Wat werkt al goed:**
+
+  - Goede semantische code: header, nav, main, sections, article, footer.
+  - Logische kopstructuur met elke pagina een H1 en daarna h2, h3, h4 waar nodig.
+  - alt teksten zijn logisch en hebben betekenis.
+  - Dark/light mode.
+
 
   **Bevindingen:**
   
   1. Door minder overbodige elementen te gebruiken, werkt de screenreader beter.  
   2. Content is nu beter leesbaar en logischer gestructureerd.  
-  3. Styling-elementen zijn gescheiden van de inhoud, waardoor er minder verwarring ontstaat.  
+  3. Styling-elementen zijn gescheiden van de inhoud, waardoor er minder verwarring ontstaat. 
+  4. Bypass block niet aanwezig. Je moet eerst door de header heen voordat je bij de content komt.
+  5. Menuknop/overlay hebben geen open/closed state.
+  6. Theme toggle heeft geen aan/uit of dark/light label.
+  7. Verandered woord kan verwarrend of vervelend zijn voor screenreaders.
+  8. Geen reduce-motion in de css. Kan storend zijn met de auto-scroll afbeeldingen
 
-  In vergelijking met het origineel is de site een stuk beter te navigeren met een screenreader. Er zijn nog wel een paar verbeterpunten zoals het toevoegen van aria-labels.
+  **Conclusie:**
+  Ten opzichte van flexxi.design is mijn versie beter navigeerbaar en begrijpelijk door semantiek, koppen en alt-teksten. Er liggen nog wat verbeteringen bij bediening (menu/toggle-state), bypass, aria-labels en auto-scrollers.
 
 </details>
 
@@ -225,12 +239,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
-
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://www.w3.org/TR/WCAG22/
+  2. https://developer.mozilla.org/en-US/docs/Web/HTML
+  3. https://developer.mozilla.org/en-US/docs/Web/CSS
+  4. https://webaim.org/resources/contrastchecker/
+  5. https://pagespeed.web.dev/analysis/https-jayvdmeij-github-io-FED/t0knzqs8bp?form_factor=desktop 
 
 </details>
