@@ -237,7 +237,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Bronnenlijst
 
 <details open>
-  <summary>continu bijhouden terwijl je werkt</summary>
 
   1. https://www.w3.org/TR/WCAG22/
   2. https://developer.mozilla.org/en-US/docs/Web/HTML
