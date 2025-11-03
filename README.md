@@ -158,7 +158,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  - 
+  
   Ik ga nu mijn site testen aan de hand van de WCAG-richtlijnen.
 
   **Wat werkt al goed:**
